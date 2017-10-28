@@ -7,7 +7,7 @@ Python 3, pip3, Selenium e BeautifulSoup
 
 ## Instalação dos requisitos:
 
-### pip3:
+### Python3:
 
 Digite em um terminal o seguinte comando `python3 --version` e verique se a saída é similar a apresentada abaixo.
 É importante que a versão do python seja 3.4+.
@@ -16,7 +16,13 @@ Digite em um terminal o seguinte comando `python3 --version` e verique se a saí
 $ python3 --version
 Python 3.6.2
 ```
-Caso o Python3 não esteja instalado, digite o comando:
+### pip3:
+No terminal, digite:
+```bash
+  pip3 --version
+```
+
+Caso o pip3 não esteja instalado, digite o comando:
 
  ```bash
   sudo apt-get install python3-pip3
