@@ -31,4 +31,14 @@ Caso o pip3 não esteja instalado, digite o comando:
   https://gist.github.com/barseghyanartur/0d62c75dd6fa4e99ea9ad2c062f1025b
   
 ### BeautifulSoup:
-  
+No terminal, digite:
+```bash
+sudo pip3 install bs4
+```
+Esse comando instalará a biblioteca do BeautifulSoup4 para python3.
+
+## Minha primeira raspagem
+
+Após instalar todos os programas e bibliotecas necessários, você está pronto para fazer sua primeira raspagem!
+
+--soon--
